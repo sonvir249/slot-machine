@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "checkJs": false,
+    "resolveJsonModule": true,
+    "module": "commonJS",
+    "target": "es6"
+  },
+  "exclude": [
+    "node_modules",
+    ".vscode"
+  ],
+  "typeAcquisition": {
+    "enable": true
+  }
+}
